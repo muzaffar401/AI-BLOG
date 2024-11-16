@@ -69,7 +69,7 @@ const PostPage: React.FC = () => {
                             </a>
 
                             <h1 className="header-title">
-                                How To Create Best UX Design With Adobe XD
+                                Creating Stunning Visuals with Figma
                             </h1>
 
                             <Image
@@ -83,66 +83,57 @@ const PostPage: React.FC = () => {
                     </section>
 
                     <section className="post-content post-container">
-                        <h2 className="sub-heading">Create Best UX Design</h2>
+                        <h2 className="sub-heading">Creating Stunning Visuals with Figma</h2>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            Figma has emerged as one of the most powerful and popular tools for designing stunning visuals in the digital space. It’s a browser-based UI/UX design tool that allows designers to create and collaborate on design projects seamlessly. With its user-friendly interface and real-time collaboration features, Figma has become the go-to choice for many professionals working on web and mobile applications, as well as branding and marketing materials.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            One of the key strengths of Figma is its versatility. Designers can create wireframes, high-fidelity prototypes, and interactive user interfaces all within one platform. The ability to design, prototype, and share in real time makes it easy to iterate quickly and gather feedback. Whether you’re working solo or as part of a team, Figma’s cloud-based nature ensures that you’re always working with the latest version of your project.
                         </p>
-                        <h2 className="sub-heading">Create Best UX Design</h2>
+                        <h2 className="sub-heading">Figma’s Collaborative Power</h2>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            Collaboration is at the heart of Figma’s design process. Designers, developers, and stakeholders can work together in real-time, eliminating the need for version control problems and allowing for faster decision-making. The tool’s commenting feature makes it easy to leave feedback, while its simple design system helps ensure consistency across all parts of the project. This collaborative environment is ideal for remote teams and those who require constant input from multiple parties.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            Additionally, Figma offers extensive libraries and design systems that enable designers to work efficiently by reusing components, styles, and assets across different projects. By using reusable assets and components, teams can ensure that their designs remain consistent and cohesive throughout the project’s lifecycle.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            In conclusion, Figma has transformed the way designers create and collaborate. Its ease of use, powerful design capabilities, and real-time collaboration features make it an indispensable tool for anyone looking to create stunning visuals and exceptional user experiences. Whether you’re designing a website, mobile app, or branding materials, Figma provides all the tools you need to bring your vision to life.
                         </p>
                     </section>
+
 
                     <div className="share post-container">
                         <span className="share-title">Share this article</span>
                         <div className="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=100059563837220&mibextid=ZbWKwL">
                                 <i className="bx bxl-facebook"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://x.com/Muzaffar401?t=5Oo42XPN4flIP3PEomc2Vg&s=09">
                                 <i className="bx bxl-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.instagram.com/muzaffar______ahmed/?igsh=MXN5amZzcWU4eDRtZg%3D%3D">
                                 <i className="bx bxl-instagram"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/muzaffar-ahmed-b8652b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <i className="bx bxl-linkedin"></i>
                             </a>
                         </div>
                     </div>
 
                     <div className="footer container">
-                        <p>&#169; AI-BLOGS All Right Reserved</p>
+                        <p>&#169; AI-BLOGS All Rights Reserved</p>
                         <div className="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=100059563837220&mibextid=ZbWKwL">
                                 <i className="bx bxl-facebook"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://x.com/Muzaffar401?t=5Oo42XPN4flIP3PEomc2Vg&s=09">
                                 <i className="bx bxl-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.instagram.com/muzaffar______ahmed/?igsh=MXN5amZzcWU4eDRtZg%3D%3D">
                                 <i className="bx bxl-instagram"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/muzaffar-ahmed-b8652b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <i className="bx bxl-linkedin"></i>
                             </a>
                         </div>

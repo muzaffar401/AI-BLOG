@@ -69,7 +69,7 @@ const PostPage: React.FC = () => {
                             </a>
 
                             <h1 className="header-title">
-                                How To Create Best UX Design With Adobe XD
+                                Blockchain Beyond Cryptocurrency
                             </h1>
 
                             <Image
@@ -83,66 +83,57 @@ const PostPage: React.FC = () => {
                     </section>
 
                     <section className="post-content post-container">
-                        <h2 className="sub-heading">Create Best UX Design</h2>
+                        <h2 className="sub-heading">Blockchain Beyond Cryptocurrency</h2>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            While blockchain technology is often associated with cryptocurrency, its applications extend far beyond digital currencies. Blockchain is a decentralized, distributed ledger that ensures transparency, security, and immutability of data. This makes it suitable for a wide range of industries, from healthcare to supply chain management, finance, and even voting systems. The potential of blockchain is enormous, and its ability to revolutionize how data is stored and shared is just beginning to be fully realized.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            One key area where blockchain is making an impact is in supply chain management. By using blockchain to track products and verify transactions, companies can ensure the authenticity and quality of goods from the point of origin to the final consumer. This provides transparency and can help prevent fraud, reduce costs, and improve efficiency in global supply chains.
                         </p>
-                        <h2 className="sub-heading">Create Best UX Design</h2>
+                        <h2 className="sub-heading">Blockchain in Healthcare</h2>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            In the healthcare industry, blockchain has the potential to improve patient care and data security. With blockchain, patient records can be stored in a secure, immutable manner, making it easier for healthcare providers to access up-to-date and accurate medical histories. This can reduce errors, improve diagnosis accuracy, and enhance overall care coordination. Additionally, blockchain can streamline billing and insurance processes, ensuring faster claims processing and preventing fraudulent claims.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            Another promising application of blockchain is in digital identity management. With traditional identity systems, personal data is often centralized, making it vulnerable to hacking and unauthorized access. Blockchain-based solutions offer a decentralized approach, allowing individuals to maintain control of their identity and securely share personal information when needed. This has the potential to improve privacy and reduce identity theft.
                         </p>
                         <p className="post-text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laboriosam eum eaque ipsum consequuntur ut
-                            a quibusdam laudantium! Nostrum aliquam facere omnis vero doloremque fugiat blanditiis soluta doloribus earum
-                            provident.
+                            In conclusion, blockchain technology offers far more than just cryptocurrency. Its ability to securely and transparently record transactions is opening up new possibilities across various industries. Whether it’s improving supply chains, securing healthcare data, or enabling decentralized identity management, blockchain is proving to be a transformative technology with the potential to change the way we live and do business.
                         </p>
                     </section>
+
 
                     <div className="share post-container">
                         <span className="share-title">Share this article</span>
                         <div className="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=100059563837220&mibextid=ZbWKwL">
                                 <i className="bx bxl-facebook"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://x.com/Muzaffar401?t=5Oo42XPN4flIP3PEomc2Vg&s=09">
                                 <i className="bx bxl-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.instagram.com/muzaffar______ahmed/?igsh=MXN5amZzcWU4eDRtZg%3D%3D">
                                 <i className="bx bxl-instagram"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/muzaffar-ahmed-b8652b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <i className="bx bxl-linkedin"></i>
                             </a>
                         </div>
                     </div>
 
                     <div className="footer container">
-                        <p>&#169; AI-BLOGS All Right Reserved</p>
+                        <p>&#169; AI-BLOGS All Rights Reserved</p>
                         <div className="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=100059563837220&mibextid=ZbWKwL">
                                 <i className="bx bxl-facebook"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://x.com/Muzaffar401?t=5Oo42XPN4flIP3PEomc2Vg&s=09">
                                 <i className="bx bxl-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.instagram.com/muzaffar______ahmed/?igsh=MXN5amZzcWU4eDRtZg%3D%3D">
                                 <i className="bx bxl-instagram"></i>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/muzaffar-ahmed-b8652b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <i className="bx bxl-linkedin"></i>
                             </a>
                         </div>

@@ -9,13 +9,13 @@ const Home: React.FC = () => {
     // Filter functionality
     $(document).ready(function () {
       $(".filter-item").click(function () {
-          const value = $(this).attr("data-filter");
-          if (value === "all") {
-              $(".post-box").show(1000);
-          } else {
-              $(".post-box").not("." + value).hide(1000);
-              $(".post-box").filter("." + value).show(1000);
-          }
+        const value = $(this).attr("data-filter");
+        if (value === "all") {
+          $(".post-box").show(1000);
+        } else {
+          $(".post-box").not("." + value).hide(1000);
+          $(".post-box").filter("." + value).show(1000);
+        }
       });
       // Active filter toggle
       $(".filter-item").click(function () {
@@ -202,16 +202,16 @@ const Home: React.FC = () => {
           <div className="footer container">
             <p>&#169; AI-BLOGS All Rights Reserved</p>
             <div className="social">
-              <a href="#">
+              <a href="https://www.facebook.com/profile.php?id=100059563837220&mibextid=ZbWKwL">
                 <i className="bx bxl-facebook"></i>
               </a>
-              <a href="#">
+              <a href="https://x.com/Muzaffar401?t=5Oo42XPN4flIP3PEomc2Vg&s=09">
                 <i className="bx bxl-twitter"></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/muzaffar______ahmed/?igsh=MXN5amZzcWU4eDRtZg%3D%3D">
                 <i className="bx bxl-instagram"></i>
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/muzaffar-ahmed-b8652b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                 <i className="bx bxl-linkedin"></i>
               </a>
             </div>
