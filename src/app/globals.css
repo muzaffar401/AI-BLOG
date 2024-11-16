@@ -366,13 +366,16 @@ header.shadow .logo {
         width: 100%;
     }
     .header-img{
-        height: 340px;
+        height: 270px;
     }
     .footer{
         flex-direction: column;
         row-gap: 1rem;
         padding: 20px 0;
         text-align: center;
+    }
+    .post-text{
+        text-align: start;
     }
   }
 
@@ -405,6 +408,7 @@ header.shadow .logo {
         font-size: 0.875rem;
         line-height: 1.5rem;
         margin: 10px 0;
+        text-align: start;
     }
   }
 
